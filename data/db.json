@@ -69,7 +69,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Dick Grayson",
       "first_appearance": "Detective Comics #38",
-      "characters": "Dick Grayson"
+      "characters": "Dick, Grayson"
     },
     {
       "id": "dc-blue",
@@ -85,7 +85,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Dinah Drake",
       "first_appearance": "Flash Comics #86",
-      "characters": "Dinah Drake, Dinah Lance"
+      "characters": "Dinah, Drake, Dinah Lance"
     },
     {
       "id": "marvel-spider",
@@ -125,7 +125,7 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Bruce Banner",
       "first_appearance": "The Incredible Hulk #1",
-      "characters": "Bruce Banner"
+      "characters": "Bruce, Banner"
     },
     {
       "id": "marvel-wolverine",
@@ -133,7 +133,7 @@
       "publisher": "Marvel Comics",
       "alter_ego": "James Howlett",
       "first_appearance": "The Incredible Hulk #180",
-      "characters": "James Howlett"
+      "characters": "James, Howlett"
     },
     {
       "id": "marvel-daredevil",
@@ -141,7 +141,7 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Matthew Michael Murdock",
       "first_appearance": "Daredevil #1",
-      "characters": "Matthew Michael Murdock"
+      "characters": "Matthew, Michael, Murdock"
     },
     {
       "id": "marvel-hawkeye",
@@ -149,7 +149,7 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Clinton Francis Barton",
       "first_appearance": "Tales of Suspense #57",
-      "characters": "Clinton Francis Barton"
+      "characters": "Clinton, Francis, Barton"
     },
     {
       "id": "marvel-cyclops",
@@ -165,7 +165,7 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
-      "characters": "Norrin Radd"
+      "characters": "Norrin, Radd"
     }
   ]
 }
